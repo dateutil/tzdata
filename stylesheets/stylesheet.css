@@ -1,18 +1,18 @@
 body {
   margin: 0;
   padding: 0;
-  background: #151515 url("../images/bkg.png") 0 0;
-  color: #eaeaea;
-  font: 16px;
-  line-height: 1.5;
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  background: #f1f1f1;
+  color: #222222;
+  font: 15px;
+  line-height: 1.2;
+  font-family: DejaVu Sans, Helvetica, sans-serif;
 }
 
 /* General & 'Reset' Stuff */
 
 .container {
   width: 90%;
-  max-width: 600px;
+  max-width: 900px;
   margin: 0 auto;
 }
 
@@ -25,53 +25,29 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0 0 20px;
 }
 
-li {
-  line-height: 1.4 ;
-}
-
-/* Header, <header>
-   header   - container
-   h1       - project name
-   h2       - project description
-*/
-
 header {
-  background: rgba(0, 0, 0, 0.1);
+  background: rgba(0, 136, 190, 0.4);
   width: 100%;
-  border-bottom: 1px dashed #b5e853;
-  padding: 20px 0;
-  margin: 0 0 40px 0;
+  border-bottom: 1px dashed #000000;
+  padding: 15px 0;
+  margin: 0 0 20px 0;
 }
 
 header h1 {
   font-size: 30px;
   line-height: 1.5;
-  margin: 0 0 0 -40px;
+  margin: 0 0 0 0px;
   font-weight: bold;
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  color: #b5e853;
-  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
-               0 0 5px rgba(181, 232, 83, 0.1),
-               0 0 10px rgba(181, 232, 83, 0.1);
-  letter-spacing: -1px;
+  font-family: Meslo LG L, Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  color: #ffffff;
   -webkit-font-smoothing: antialiased;
 }
 
-header h1:before {
-  content: "./ ";
-  font-size: 24px;
-}
-
 header h2 {
+  margin: 0 0 0 0px;
   font-size: 18px;
   font-weight: 300;
-  color: #666;
-}
-
-#downloads .btn {
-  display: inline-block;
-  text-align: center;
-  margin: 0;
+  color: #454545;
 }
 
 /* Main Content
@@ -87,12 +63,8 @@ section img {
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  color: #b5e853;
-  letter-spacing: -0.03em;
-  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
-               0 0 5px rgba(181, 232, 83, 0.1),
-               0 0 10px rgba(181, 232, 83, 0.1);
+  font-family: Meslo LG L, Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  color: #cccccc;
 }
 
 #main_content h1 {

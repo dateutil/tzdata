@@ -3,7 +3,6 @@
   <head>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-
     <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
     <link rel="stylesheet" type="text/css" href="stylesheets/github-dark.css" media="screen">
     <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
@@ -18,18 +17,16 @@
         <h1>dateutil-tzdata</h1>
         <h2>Time zone data for dateutil</h2>
 
-        <section id="downloads">
-          <a href="https://github.com/dateutil/tzdata/zipball/master" class="btn">Download as .zip</a>
-          <a href="https://github.com/dateutil/tzdata/tarball/master" class="btn">Download as .tar.gz</a>
-          <a href="https://github.com/dateutil/tzdata" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
-        </section>
       </div>
     </header>
 
     <div class="container">
       <section id="main_content">
-        <p>Mirror of the Olson timezone database with dateutil-accessible data and metadata and pre-built dateutil zoneinfo files.</p>
+        <p>Mirror of the Olson timezone database with python-dateutil-accessible data and metadata and pre-built dateutil zoneinfo files.</p>
+        <p>The main site for these data files can be found <a href="https://www.iana.org/time-zones">at the IANA's website</a>. The archive of releases is <a href="ftp://ftp.iana.org/tz/releases/">here (FTP)</a>. More information can be found at <a href="https://www.iana.org/time-zones/repository/tz-link.html">the code repository</a>. I have verified that all files from version 2012j onwards have been signed using <a href="http://pgp.mit.edu/pks/lookup?op=vindex&search=0xED97E90E62AA7E34">key ID 0x62AA7E34</a>. The built zoneinfo files are signed with my <a href="http://pgp.mit.edu/pks/lookup?op=vindex&search=0xCD54FCE3D964BEFB">own key, 0xD964BEFB</a>.</p>
+        <p>To use these files with dateutil, run <tt>updatezinfo.py</tt> with the appropriate arguments to build the zoneinfo database - this requires <a href="http://man7.org/linux/man-pages/man8/zic.8.html">zic</a>. For convenience, a zoneinfo metadata file is provided alongside each release, which can be used as an input to <tt>updatezinfo.py</tt>. Additionally, prebuilt zoneinfo files are provided for each release, and can be placed directly in your dateutil/zoneinfo file (it must be named <tt>dateutil-zoneinfo.tar.gz</tt>).</p>
       </section>
+      <!-- Table will go here -->
     </div>
 
     
