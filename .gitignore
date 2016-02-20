@@ -1,0 +1,11 @@
+# Output files
+tzdata/
+sig/
+zoneinfo_metadata/
+
+*.log
+*.yml
+*.json
+
+# Detritus
+__pycache__/
