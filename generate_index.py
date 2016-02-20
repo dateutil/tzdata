@@ -15,11 +15,11 @@ if __name__ == "__main__":
     # Load the configuration we need
     (
      data_loc, iana_sig_loc, du_sig_loc, zi_meta_loc,
-     index_loc, latest_loc,
-     version_key, data_key, zi_key, iana_sig_key, du_sig_key
+     index_loc, latest_loc, version_key, zi_latest_fname,
+     data_key, zi_key, iana_sig_key, du_sig_key
     ) = load_config((
         'tzdata_loc', 'iana_sig_loc', 'du_sig_loc',  'zoneinfo_metadata_loc',
-        'index_loc', 'latest_loc', 'version_key',
+        'index_loc', 'latest_loc', 'version_key', 'zi_latest_fname',
         'data_key', 'zoneinfo_key', 'iana_sig_key', 'du_sig_key'
     ))
 

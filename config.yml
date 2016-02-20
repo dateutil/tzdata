@@ -11,8 +11,9 @@ du_sig_loc: "sig/tzdata/dateutil/"
 fetch_errors_out: "errors.yml"
 
 # Zoneinfo Configuration
-zoneinfo_metadata_loc: "zoneinfo_metadata/"
-zoneinfo_format_str: "zoneinfo_{version}.json"
+zoneinfo_metadata_loc: "zonefile_metadata/"
+zoneinfo_format_str: "zonefile_{version}.json"
+zonefile_latest_fname: "zonefile_metadata.json"
 
 # Index file location
 index_loc: "index.yml"
@@ -23,7 +24,7 @@ version_key: 'version'
 data_key: 'tzdata'
 iana_sig_key: 'tzdata_iana_sig'
 du_sig_key: 'tzdata_dateutil_sig'
-zoneinfo_key: 'zoneinfo_metadata'
+zoneinfo_key: 'zonefile_metadata'
 
 # Base metadata file
 base_metadata_file: "base_metadata.json"
@@ -31,4 +32,4 @@ base_metadata_file: "base_metadata.json"
 # Data and signature file identification
 data_regex: 'tzdata(?P<version>\d{4}.)\.tar\.gz$'
 sig_regex: 'tzdata(?P<version>\d{4}.)\.tar\.gz.asc$'
-zi_regex: 'zoneinfo_(?P<version>\d{4}.).json'
+zi_regex: 'zonefile_(?P<version>\d{4}.).json'
