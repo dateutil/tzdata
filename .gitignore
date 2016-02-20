@@ -1,0 +1,12 @@
+__pycache__*
+validation_errors.log
+
+base_metadata.json
+config.yml
+
+config.py
+fetch_tz.py
+generate_index.py
+generate_metadata.py
+generate_signatures.py
+tzdata_files.py
