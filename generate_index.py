@@ -3,6 +3,7 @@ if __name__ == "__main__":
     import yaml
     from six import iteritems
 
+    import shutil
     from os import path
     from collections import OrderedDict
 
@@ -19,7 +20,7 @@ if __name__ == "__main__":
      data_key, zi_key, iana_sig_key, du_sig_key
     ) = load_config((
         'tzdata_loc', 'iana_sig_loc', 'du_sig_loc',  'zoneinfo_metadata_loc',
-        'index_loc', 'latest_loc', 'version_key', 'zi_latest_fname',
+        'index_loc', 'latest_loc', 'version_key', 'zonefile_latest_fname',
         'data_key', 'zoneinfo_key', 'iana_sig_key', 'du_sig_key'
     ))
 
@@ -79,7 +80,14 @@ if __name__ == "__main__":
     out_list = sorted(out_list, key=lambda x: x[version_key], reverse=True)
 
     # Get the latest subdict
-    latest = out_list[0]
+    latest = out_list[0].copy()
+    
+    # Copy the latest metadata to the new latest location
+    latest_fname = latest[zi_key]
+    new_latest_fname = path.join(zi_meta_loc, zi_latest_fname)
+    shutil.copy(latest_fname, new_latest_fname)
+
+    latest[zi_key] = new_latest_fname
 
     with open(latest_loc, 'w') as yf:
         yaml.dump(latest, yf, default_flow_style=False)
