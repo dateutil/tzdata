@@ -2,959 +2,959 @@
   tzdata_dateutil_sig: sig/tzdata/dateutil/tzdata2016a.tar.gz.asc
   tzdata_iana_sig: sig/tzdata/iana/tzdata2016a.tar.gz.asc
   version: 2016a
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2016a.json
+  zonefile_metadata: zonefile_metadata/zonefile_2016a.json
 - tzdata: tzdata/tzdata2015g.tar.gz
   tzdata_dateutil_sig: sig/tzdata/dateutil/tzdata2015g.tar.gz.asc
   tzdata_iana_sig: sig/tzdata/iana/tzdata2015g.tar.gz.asc
   version: 2015g
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2015g.json
+  zonefile_metadata: zonefile_metadata/zonefile_2015g.json
 - tzdata: tzdata/tzdata2015f.tar.gz
   tzdata_dateutil_sig: sig/tzdata/dateutil/tzdata2015f.tar.gz.asc
   tzdata_iana_sig: sig/tzdata/iana/tzdata2015f.tar.gz.asc
   version: 2015f
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2015f.json
+  zonefile_metadata: zonefile_metadata/zonefile_2015f.json
 - tzdata: tzdata/tzdata2015e.tar.gz
   tzdata_dateutil_sig: sig/tzdata/dateutil/tzdata2015e.tar.gz.asc
   tzdata_iana_sig: sig/tzdata/iana/tzdata2015e.tar.gz.asc
   version: 2015e
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2015e.json
+  zonefile_metadata: zonefile_metadata/zonefile_2015e.json
 - tzdata: tzdata/tzdata2015d.tar.gz
   tzdata_dateutil_sig: sig/tzdata/dateutil/tzdata2015d.tar.gz.asc
   tzdata_iana_sig: sig/tzdata/iana/tzdata2015d.tar.gz.asc
   version: 2015d
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2015d.json
+  zonefile_metadata: zonefile_metadata/zonefile_2015d.json
 - tzdata: tzdata/tzdata2015c.tar.gz
   tzdata_dateutil_sig: sig/tzdata/dateutil/tzdata2015c.tar.gz.asc
   tzdata_iana_sig: sig/tzdata/iana/tzdata2015c.tar.gz.asc
   version: 2015c
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2015c.json
+  zonefile_metadata: zonefile_metadata/zonefile_2015c.json
 - tzdata: tzdata/tzdata2015b.tar.gz
   tzdata_dateutil_sig: sig/tzdata/dateutil/tzdata2015b.tar.gz.asc
   tzdata_iana_sig: sig/tzdata/iana/tzdata2015b.tar.gz.asc
   version: 2015b
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2015b.json
+  zonefile_metadata: zonefile_metadata/zonefile_2015b.json
 - tzdata: tzdata/tzdata2015a.tar.gz
   tzdata_dateutil_sig: sig/tzdata/dateutil/tzdata2015a.tar.gz.asc
   tzdata_iana_sig: sig/tzdata/iana/tzdata2015a.tar.gz.asc
   version: 2015a
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2015a.json
+  zonefile_metadata: zonefile_metadata/zonefile_2015a.json
 - tzdata: tzdata/tzdata2014j.tar.gz
   tzdata_dateutil_sig: sig/tzdata/dateutil/tzdata2014j.tar.gz.asc
   tzdata_iana_sig: sig/tzdata/iana/tzdata2014j.tar.gz.asc
   version: 2014j
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2014j.json
+  zonefile_metadata: zonefile_metadata/zonefile_2014j.json
 - tzdata: tzdata/tzdata2014i.tar.gz
   tzdata_dateutil_sig: sig/tzdata/dateutil/tzdata2014i.tar.gz.asc
   tzdata_iana_sig: sig/tzdata/iana/tzdata2014i.tar.gz.asc
   version: 2014i
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2014i.json
+  zonefile_metadata: zonefile_metadata/zonefile_2014i.json
 - tzdata: tzdata/tzdata2014h.tar.gz
   tzdata_dateutil_sig: sig/tzdata/dateutil/tzdata2014h.tar.gz.asc
   tzdata_iana_sig: sig/tzdata/iana/tzdata2014h.tar.gz.asc
   version: 2014h
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2014h.json
+  zonefile_metadata: zonefile_metadata/zonefile_2014h.json
 - tzdata: tzdata/tzdata2014g.tar.gz
   tzdata_dateutil_sig: sig/tzdata/dateutil/tzdata2014g.tar.gz.asc
   tzdata_iana_sig: sig/tzdata/iana/tzdata2014g.tar.gz.asc
   version: 2014g
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2014g.json
+  zonefile_metadata: zonefile_metadata/zonefile_2014g.json
 - tzdata: tzdata/tzdata2014f.tar.gz
   tzdata_dateutil_sig: sig/tzdata/dateutil/tzdata2014f.tar.gz.asc
   tzdata_iana_sig: sig/tzdata/iana/tzdata2014f.tar.gz.asc
   version: 2014f
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2014f.json
+  zonefile_metadata: zonefile_metadata/zonefile_2014f.json
 - tzdata: tzdata/tzdata2014e.tar.gz
   tzdata_dateutil_sig: sig/tzdata/dateutil/tzdata2014e.tar.gz.asc
   tzdata_iana_sig: sig/tzdata/iana/tzdata2014e.tar.gz.asc
   version: 2014e
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2014e.json
+  zonefile_metadata: zonefile_metadata/zonefile_2014e.json
 - tzdata: tzdata/tzdata2014d.tar.gz
   tzdata_dateutil_sig: sig/tzdata/dateutil/tzdata2014d.tar.gz.asc
   tzdata_iana_sig: sig/tzdata/iana/tzdata2014d.tar.gz.asc
   version: 2014d
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2014d.json
+  zonefile_metadata: zonefile_metadata/zonefile_2014d.json
 - tzdata: tzdata/tzdata2014c.tar.gz
   tzdata_dateutil_sig: sig/tzdata/dateutil/tzdata2014c.tar.gz.asc
   tzdata_iana_sig: sig/tzdata/iana/tzdata2014c.tar.gz.asc
   version: 2014c
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2014c.json
+  zonefile_metadata: zonefile_metadata/zonefile_2014c.json
 - tzdata: tzdata/tzdata2014b.tar.gz
   tzdata_dateutil_sig: sig/tzdata/dateutil/tzdata2014b.tar.gz.asc
   tzdata_iana_sig: sig/tzdata/iana/tzdata2014b.tar.gz.asc
   version: 2014b
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2014b.json
+  zonefile_metadata: zonefile_metadata/zonefile_2014b.json
 - tzdata: tzdata/tzdata2014a.tar.gz
   tzdata_dateutil_sig: sig/tzdata/dateutil/tzdata2014a.tar.gz.asc
   tzdata_iana_sig: sig/tzdata/iana/tzdata2014a.tar.gz.asc
   version: 2014a
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2014a.json
+  zonefile_metadata: zonefile_metadata/zonefile_2014a.json
 - tzdata: tzdata/tzdata2013i.tar.gz
   tzdata_dateutil_sig: sig/tzdata/dateutil/tzdata2013i.tar.gz.asc
   tzdata_iana_sig: sig/tzdata/iana/tzdata2013i.tar.gz.asc
   version: 2013i
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2013i.json
+  zonefile_metadata: zonefile_metadata/zonefile_2013i.json
 - tzdata: tzdata/tzdata2013h.tar.gz
   tzdata_dateutil_sig: sig/tzdata/dateutil/tzdata2013h.tar.gz.asc
   tzdata_iana_sig: sig/tzdata/iana/tzdata2013h.tar.gz.asc
   version: 2013h
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2013h.json
+  zonefile_metadata: zonefile_metadata/zonefile_2013h.json
 - tzdata: tzdata/tzdata2013g.tar.gz
   tzdata_dateutil_sig: sig/tzdata/dateutil/tzdata2013g.tar.gz.asc
   tzdata_iana_sig: sig/tzdata/iana/tzdata2013g.tar.gz.asc
   version: 2013g
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2013g.json
+  zonefile_metadata: zonefile_metadata/zonefile_2013g.json
 - tzdata: tzdata/tzdata2013f.tar.gz
   tzdata_dateutil_sig: sig/tzdata/dateutil/tzdata2013f.tar.gz.asc
   tzdata_iana_sig: sig/tzdata/iana/tzdata2013f.tar.gz.asc
   version: 2013f
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2013f.json
+  zonefile_metadata: zonefile_metadata/zonefile_2013f.json
 - tzdata: tzdata/tzdata2013e.tar.gz
   tzdata_dateutil_sig: sig/tzdata/dateutil/tzdata2013e.tar.gz.asc
   tzdata_iana_sig: sig/tzdata/iana/tzdata2013e.tar.gz.asc
   version: 2013e
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2013e.json
+  zonefile_metadata: zonefile_metadata/zonefile_2013e.json
 - tzdata: tzdata/tzdata2013d.tar.gz
   tzdata_dateutil_sig: sig/tzdata/dateutil/tzdata2013d.tar.gz.asc
   tzdata_iana_sig: sig/tzdata/iana/tzdata2013d.tar.gz.asc
   version: 2013d
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2013d.json
+  zonefile_metadata: zonefile_metadata/zonefile_2013d.json
 - tzdata: tzdata/tzdata2013c.tar.gz
   tzdata_dateutil_sig: sig/tzdata/dateutil/tzdata2013c.tar.gz.asc
   tzdata_iana_sig: sig/tzdata/iana/tzdata2013c.tar.gz.asc
   version: 2013c
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2013c.json
+  zonefile_metadata: zonefile_metadata/zonefile_2013c.json
 - tzdata: tzdata/tzdata2013b.tar.gz
   tzdata_dateutil_sig: sig/tzdata/dateutil/tzdata2013b.tar.gz.asc
   tzdata_iana_sig: sig/tzdata/iana/tzdata2013b.tar.gz.asc
   version: 2013b
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2013b.json
+  zonefile_metadata: zonefile_metadata/zonefile_2013b.json
 - tzdata: tzdata/tzdata2013a.tar.gz
   tzdata_dateutil_sig: sig/tzdata/dateutil/tzdata2013a.tar.gz.asc
   tzdata_iana_sig: sig/tzdata/iana/tzdata2013a.tar.gz.asc
   version: 2013a
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2013a.json
+  zonefile_metadata: zonefile_metadata/zonefile_2013a.json
 - tzdata: tzdata/tzdata2012j.tar.gz
   tzdata_dateutil_sig: sig/tzdata/dateutil/tzdata2012j.tar.gz.asc
   tzdata_iana_sig: sig/tzdata/iana/tzdata2012j.tar.gz.asc
   version: 2012j
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2012j.json
+  zonefile_metadata: zonefile_metadata/zonefile_2012j.json
 - tzdata: tzdata/tzdata2012i.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2012i
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2012i.json
+  zonefile_metadata: zonefile_metadata/zonefile_2012i.json
 - tzdata: tzdata/tzdata2012h.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2012h
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2012h.json
+  zonefile_metadata: zonefile_metadata/zonefile_2012h.json
 - tzdata: tzdata/tzdata2012g.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2012g
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2012g.json
+  zonefile_metadata: zonefile_metadata/zonefile_2012g.json
 - tzdata: tzdata/tzdata2012f.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2012f
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2012f.json
+  zonefile_metadata: zonefile_metadata/zonefile_2012f.json
 - tzdata: tzdata/tzdata2012e.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2012e
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2012e.json
+  zonefile_metadata: zonefile_metadata/zonefile_2012e.json
 - tzdata: tzdata/tzdata2012d.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2012d
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2012d.json
+  zonefile_metadata: zonefile_metadata/zonefile_2012d.json
 - tzdata: tzdata/tzdata2012c.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2012c
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2012c.json
+  zonefile_metadata: zonefile_metadata/zonefile_2012c.json
 - tzdata: tzdata/tzdata2012b.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2012b
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2012b.json
+  zonefile_metadata: zonefile_metadata/zonefile_2012b.json
 - tzdata: tzdata/tzdata2012a.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2012a
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2012a.json
+  zonefile_metadata: zonefile_metadata/zonefile_2012a.json
 - tzdata: tzdata/tzdata2011n.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2011n
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2011n.json
+  zonefile_metadata: zonefile_metadata/zonefile_2011n.json
 - tzdata: tzdata/tzdata2011m.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2011m
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2011m.json
+  zonefile_metadata: zonefile_metadata/zonefile_2011m.json
 - tzdata: tzdata/tzdata2011l.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2011l
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2011l.json
+  zonefile_metadata: zonefile_metadata/zonefile_2011l.json
 - tzdata: tzdata/tzdata2011k.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2011k
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2011k.json
+  zonefile_metadata: zonefile_metadata/zonefile_2011k.json
 - tzdata: tzdata/tzdata2011j.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2011j
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2011j.json
+  zonefile_metadata: zonefile_metadata/zonefile_2011j.json
 - tzdata: tzdata/tzdata2011i.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2011i
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2011i.json
+  zonefile_metadata: zonefile_metadata/zonefile_2011i.json
 - tzdata: tzdata/tzdata2011h.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2011h
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2011h.json
+  zonefile_metadata: zonefile_metadata/zonefile_2011h.json
 - tzdata: tzdata/tzdata2011g.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2011g
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2011g.json
+  zonefile_metadata: zonefile_metadata/zonefile_2011g.json
 - tzdata: tzdata/tzdata2011f.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2011f
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2011f.json
+  zonefile_metadata: zonefile_metadata/zonefile_2011f.json
 - tzdata: tzdata/tzdata2011e.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2011e
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2011e.json
+  zonefile_metadata: zonefile_metadata/zonefile_2011e.json
 - tzdata: tzdata/tzdata2011d.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2011d
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2011d.json
+  zonefile_metadata: zonefile_metadata/zonefile_2011d.json
 - tzdata: tzdata/tzdata2011c.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2011c
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2011c.json
+  zonefile_metadata: zonefile_metadata/zonefile_2011c.json
 - tzdata: tzdata/tzdata2011b.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2011b
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2011b.json
+  zonefile_metadata: zonefile_metadata/zonefile_2011b.json
 - tzdata: tzdata/tzdata2011a.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2011a
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2011a.json
+  zonefile_metadata: zonefile_metadata/zonefile_2011a.json
 - tzdata: tzdata/tzdata2010o.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2010o
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2010o.json
+  zonefile_metadata: zonefile_metadata/zonefile_2010o.json
 - tzdata: tzdata/tzdata2010n.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2010n
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2010n.json
+  zonefile_metadata: zonefile_metadata/zonefile_2010n.json
 - tzdata: tzdata/tzdata2010m.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2010m
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2010m.json
+  zonefile_metadata: zonefile_metadata/zonefile_2010m.json
 - tzdata: tzdata/tzdata2010l.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2010l
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2010l.json
+  zonefile_metadata: zonefile_metadata/zonefile_2010l.json
 - tzdata: tzdata/tzdata2010k.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2010k
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2010k.json
+  zonefile_metadata: zonefile_metadata/zonefile_2010k.json
 - tzdata: tzdata/tzdata2010j.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2010j
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2010j.json
+  zonefile_metadata: zonefile_metadata/zonefile_2010j.json
 - tzdata: tzdata/tzdata2010i.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2010i
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2010i.json
+  zonefile_metadata: zonefile_metadata/zonefile_2010i.json
 - tzdata: tzdata/tzdata2010h.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2010h
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2010h.json
+  zonefile_metadata: zonefile_metadata/zonefile_2010h.json
 - tzdata: tzdata/tzdata2010g.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2010g
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2010g.json
+  zonefile_metadata: zonefile_metadata/zonefile_2010g.json
 - tzdata: tzdata/tzdata2010f.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2010f
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2010f.json
+  zonefile_metadata: zonefile_metadata/zonefile_2010f.json
 - tzdata: tzdata/tzdata2010e.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2010e
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2010e.json
+  zonefile_metadata: zonefile_metadata/zonefile_2010e.json
 - tzdata: tzdata/tzdata2010d.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2010d
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2010d.json
+  zonefile_metadata: zonefile_metadata/zonefile_2010d.json
 - tzdata: tzdata/tzdata2010c.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2010c
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2010c.json
+  zonefile_metadata: zonefile_metadata/zonefile_2010c.json
 - tzdata: tzdata/tzdata2010b.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2010b
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2010b.json
+  zonefile_metadata: zonefile_metadata/zonefile_2010b.json
 - tzdata: tzdata/tzdata2010a.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2010a
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2010a.json
+  zonefile_metadata: zonefile_metadata/zonefile_2010a.json
 - tzdata: tzdata/tzdata2009u.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2009u
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2009u.json
+  zonefile_metadata: zonefile_metadata/zonefile_2009u.json
 - tzdata: tzdata/tzdata2009t.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2009t
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2009t.json
+  zonefile_metadata: zonefile_metadata/zonefile_2009t.json
 - tzdata: tzdata/tzdata2009s.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2009s
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2009s.json
+  zonefile_metadata: zonefile_metadata/zonefile_2009s.json
 - tzdata: tzdata/tzdata2009r.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2009r
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2009r.json
+  zonefile_metadata: zonefile_metadata/zonefile_2009r.json
 - tzdata: tzdata/tzdata2009q.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2009q
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2009q.json
+  zonefile_metadata: zonefile_metadata/zonefile_2009q.json
 - tzdata: tzdata/tzdata2009p.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2009p
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2009p.json
+  zonefile_metadata: zonefile_metadata/zonefile_2009p.json
 - tzdata: tzdata/tzdata2009o.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2009o
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2009o.json
+  zonefile_metadata: zonefile_metadata/zonefile_2009o.json
 - tzdata: tzdata/tzdata2009n.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2009n
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2009n.json
+  zonefile_metadata: zonefile_metadata/zonefile_2009n.json
 - tzdata: tzdata/tzdata2009m.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2009m
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2009m.json
+  zonefile_metadata: zonefile_metadata/zonefile_2009m.json
 - tzdata: tzdata/tzdata2009l.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2009l
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2009l.json
+  zonefile_metadata: zonefile_metadata/zonefile_2009l.json
 - tzdata: tzdata/tzdata2009k.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2009k
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2009k.json
+  zonefile_metadata: zonefile_metadata/zonefile_2009k.json
 - tzdata: tzdata/tzdata2009j.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2009j
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2009j.json
+  zonefile_metadata: zonefile_metadata/zonefile_2009j.json
 - tzdata: tzdata/tzdata2009i.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2009i
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2009i.json
+  zonefile_metadata: zonefile_metadata/zonefile_2009i.json
 - tzdata: tzdata/tzdata2009h.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2009h
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2009h.json
+  zonefile_metadata: zonefile_metadata/zonefile_2009h.json
 - tzdata: tzdata/tzdata2009g.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2009g
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2009g.json
+  zonefile_metadata: zonefile_metadata/zonefile_2009g.json
 - tzdata: tzdata/tzdata2009f.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2009f
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2009f.json
+  zonefile_metadata: zonefile_metadata/zonefile_2009f.json
 - tzdata: tzdata/tzdata2009e.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2009e
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2009e.json
+  zonefile_metadata: zonefile_metadata/zonefile_2009e.json
 - tzdata: tzdata/tzdata2009d.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2009d
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2009d.json
+  zonefile_metadata: zonefile_metadata/zonefile_2009d.json
 - tzdata: tzdata/tzdata2009c.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2009c
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2009c.json
+  zonefile_metadata: zonefile_metadata/zonefile_2009c.json
 - tzdata: tzdata/tzdata2009b.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2009b
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2009b.json
+  zonefile_metadata: zonefile_metadata/zonefile_2009b.json
 - tzdata: tzdata/tzdata2009a.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2009a
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2009a.json
+  zonefile_metadata: zonefile_metadata/zonefile_2009a.json
 - tzdata: tzdata/tzdata2008i.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2008i
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2008i.json
+  zonefile_metadata: zonefile_metadata/zonefile_2008i.json
 - tzdata: tzdata/tzdata2008h.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2008h
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2008h.json
+  zonefile_metadata: zonefile_metadata/zonefile_2008h.json
 - tzdata: tzdata/tzdata2008g.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2008g
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2008g.json
+  zonefile_metadata: zonefile_metadata/zonefile_2008g.json
 - tzdata: tzdata/tzdata2008f.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2008f
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2008f.json
+  zonefile_metadata: zonefile_metadata/zonefile_2008f.json
 - tzdata: tzdata/tzdata2008e.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2008e
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2008e.json
+  zonefile_metadata: zonefile_metadata/zonefile_2008e.json
 - tzdata: tzdata/tzdata2008d.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2008d
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2008d.json
+  zonefile_metadata: zonefile_metadata/zonefile_2008d.json
 - tzdata: tzdata/tzdata2008c.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2008c
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2008c.json
+  zonefile_metadata: zonefile_metadata/zonefile_2008c.json
 - tzdata: tzdata/tzdata2008b.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2008b
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2008b.json
+  zonefile_metadata: zonefile_metadata/zonefile_2008b.json
 - tzdata: tzdata/tzdata2008a.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2008a
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2008a.json
+  zonefile_metadata: zonefile_metadata/zonefile_2008a.json
 - tzdata: tzdata/tzdata2007k.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2007k
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2007k.json
+  zonefile_metadata: zonefile_metadata/zonefile_2007k.json
 - tzdata: tzdata/tzdata2007j.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2007j
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2007j.json
+  zonefile_metadata: zonefile_metadata/zonefile_2007j.json
 - tzdata: tzdata/tzdata2007i.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2007i
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2007i.json
+  zonefile_metadata: zonefile_metadata/zonefile_2007i.json
 - tzdata: tzdata/tzdata2007h.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2007h
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2007h.json
+  zonefile_metadata: zonefile_metadata/zonefile_2007h.json
 - tzdata: tzdata/tzdata2007g.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2007g
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2007g.json
+  zonefile_metadata: zonefile_metadata/zonefile_2007g.json
 - tzdata: tzdata/tzdata2007f.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2007f
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2007f.json
+  zonefile_metadata: zonefile_metadata/zonefile_2007f.json
 - tzdata: tzdata/tzdata2007e.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2007e
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2007e.json
+  zonefile_metadata: zonefile_metadata/zonefile_2007e.json
 - tzdata: tzdata/tzdata2007d.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2007d
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2007d.json
+  zonefile_metadata: zonefile_metadata/zonefile_2007d.json
 - tzdata: tzdata/tzdata2007c.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2007c
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2007c.json
+  zonefile_metadata: zonefile_metadata/zonefile_2007c.json
 - tzdata: tzdata/tzdata2007b.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2007b
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2007b.json
+  zonefile_metadata: zonefile_metadata/zonefile_2007b.json
 - tzdata: tzdata/tzdata2007a.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2007a
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2007a.json
+  zonefile_metadata: zonefile_metadata/zonefile_2007a.json
 - tzdata: tzdata/tzdata2006p.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2006p
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2006p.json
+  zonefile_metadata: zonefile_metadata/zonefile_2006p.json
 - tzdata: tzdata/tzdata2006o.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2006o
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2006o.json
+  zonefile_metadata: zonefile_metadata/zonefile_2006o.json
 - tzdata: tzdata/tzdata2006n.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2006n
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2006n.json
+  zonefile_metadata: zonefile_metadata/zonefile_2006n.json
 - tzdata: tzdata/tzdata2006m.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2006m
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2006m.json
+  zonefile_metadata: zonefile_metadata/zonefile_2006m.json
 - tzdata: tzdata/tzdata2006l.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2006l
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2006l.json
+  zonefile_metadata: zonefile_metadata/zonefile_2006l.json
 - tzdata: tzdata/tzdata2006k.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2006k
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2006k.json
+  zonefile_metadata: zonefile_metadata/zonefile_2006k.json
 - tzdata: tzdata/tzdata2006j.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2006j
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2006j.json
+  zonefile_metadata: zonefile_metadata/zonefile_2006j.json
 - tzdata: tzdata/tzdata2006g.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2006g
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2006g.json
+  zonefile_metadata: zonefile_metadata/zonefile_2006g.json
 - tzdata: tzdata/tzdata2006f.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2006f
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2006f.json
+  zonefile_metadata: zonefile_metadata/zonefile_2006f.json
 - tzdata: tzdata/tzdata2006d.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2006d
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2006d.json
+  zonefile_metadata: zonefile_metadata/zonefile_2006d.json
 - tzdata: tzdata/tzdata2006c.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2006c
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2006c.json
+  zonefile_metadata: zonefile_metadata/zonefile_2006c.json
 - tzdata: tzdata/tzdata2006b.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2006b
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2006b.json
+  zonefile_metadata: zonefile_metadata/zonefile_2006b.json
 - tzdata: tzdata/tzdata2006a.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2006a
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2006a.json
+  zonefile_metadata: zonefile_metadata/zonefile_2006a.json
 - tzdata: tzdata/tzdata2005r.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2005r
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2005r.json
+  zonefile_metadata: zonefile_metadata/zonefile_2005r.json
 - tzdata: tzdata/tzdata2005q.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2005q
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2005q.json
+  zonefile_metadata: zonefile_metadata/zonefile_2005q.json
 - tzdata: tzdata/tzdata2005p.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2005p
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2005p.json
+  zonefile_metadata: zonefile_metadata/zonefile_2005p.json
 - tzdata: tzdata/tzdata2005o.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2005o
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2005o.json
+  zonefile_metadata: zonefile_metadata/zonefile_2005o.json
 - tzdata: tzdata/tzdata2005n.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2005n
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2005n.json
+  zonefile_metadata: zonefile_metadata/zonefile_2005n.json
 - tzdata: tzdata/tzdata2005m.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2005m
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2005m.json
+  zonefile_metadata: zonefile_metadata/zonefile_2005m.json
 - tzdata: tzdata/tzdata2005l.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2005l
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2005l.json
+  zonefile_metadata: zonefile_metadata/zonefile_2005l.json
 - tzdata: tzdata/tzdata2005k.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2005k
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2005k.json
+  zonefile_metadata: zonefile_metadata/zonefile_2005k.json
 - tzdata: tzdata/tzdata2005j.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2005j
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2005j.json
+  zonefile_metadata: zonefile_metadata/zonefile_2005j.json
 - tzdata: tzdata/tzdata2005i.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2005i
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2005i.json
+  zonefile_metadata: zonefile_metadata/zonefile_2005i.json
 - tzdata: tzdata/tzdata2005h.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2005h
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2005h.json
+  zonefile_metadata: zonefile_metadata/zonefile_2005h.json
 - tzdata: tzdata/tzdata2005g.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2005g
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2005g.json
+  zonefile_metadata: zonefile_metadata/zonefile_2005g.json
 - tzdata: tzdata/tzdata2005f.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2005f
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2005f.json
+  zonefile_metadata: zonefile_metadata/zonefile_2005f.json
 - tzdata: tzdata/tzdata2005e.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2005e
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2005e.json
+  zonefile_metadata: zonefile_metadata/zonefile_2005e.json
 - tzdata: tzdata/tzdata2005c.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2005c
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2005c.json
+  zonefile_metadata: zonefile_metadata/zonefile_2005c.json
 - tzdata: tzdata/tzdata2005b.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2005b
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2005b.json
+  zonefile_metadata: zonefile_metadata/zonefile_2005b.json
 - tzdata: tzdata/tzdata2005a.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2005a
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2005a.json
+  zonefile_metadata: zonefile_metadata/zonefile_2005a.json
 - tzdata: tzdata/tzdata2004g.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2004g
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2004g.json
+  zonefile_metadata: zonefile_metadata/zonefile_2004g.json
 - tzdata: tzdata/tzdata2004e.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2004e
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2004e.json
+  zonefile_metadata: zonefile_metadata/zonefile_2004e.json
 - tzdata: tzdata/tzdata2004d.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2004d
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2004d.json
+  zonefile_metadata: zonefile_metadata/zonefile_2004d.json
 - tzdata: tzdata/tzdata2004b.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2004b
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2004b.json
+  zonefile_metadata: zonefile_metadata/zonefile_2004b.json
 - tzdata: tzdata/tzdata2004a.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2004a
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2004a.json
+  zonefile_metadata: zonefile_metadata/zonefile_2004a.json
 - tzdata: tzdata/tzdata2003e.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2003e
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2003e.json
+  zonefile_metadata: zonefile_metadata/zonefile_2003e.json
 - tzdata: tzdata/tzdata2003d.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2003d
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2003d.json
+  zonefile_metadata: zonefile_metadata/zonefile_2003d.json
 - tzdata: tzdata/tzdata2003c.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2003c
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2003c.json
+  zonefile_metadata: zonefile_metadata/zonefile_2003c.json
 - tzdata: tzdata/tzdata2003b.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2003b
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2003b.json
+  zonefile_metadata: zonefile_metadata/zonefile_2003b.json
 - tzdata: tzdata/tzdata2003a.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2003a
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2003a.json
+  zonefile_metadata: zonefile_metadata/zonefile_2003a.json
 - tzdata: tzdata/tzdata2002d.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2002d
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2002d.json
+  zonefile_metadata: zonefile_metadata/zonefile_2002d.json
 - tzdata: tzdata/tzdata2002c.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2002c
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2002c.json
+  zonefile_metadata: zonefile_metadata/zonefile_2002c.json
 - tzdata: tzdata/tzdata2002b.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2002b
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2002b.json
+  zonefile_metadata: zonefile_metadata/zonefile_2002b.json
 - tzdata: tzdata/tzdata2001d.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2001d
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2001d.json
+  zonefile_metadata: zonefile_metadata/zonefile_2001d.json
 - tzdata: tzdata/tzdata2001c.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2001c
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2001c.json
+  zonefile_metadata: zonefile_metadata/zonefile_2001c.json
 - tzdata: tzdata/tzdata2001b.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2001b
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2001b.json
+  zonefile_metadata: zonefile_metadata/zonefile_2001b.json
 - tzdata: tzdata/tzdata2001a.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2001a
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2001a.json
+  zonefile_metadata: zonefile_metadata/zonefile_2001a.json
 - tzdata: tzdata/tzdata2000h.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2000h
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2000h.json
+  zonefile_metadata: zonefile_metadata/zonefile_2000h.json
 - tzdata: tzdata/tzdata2000g.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2000g
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2000g.json
+  zonefile_metadata: zonefile_metadata/zonefile_2000g.json
 - tzdata: tzdata/tzdata2000f.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2000f
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2000f.json
+  zonefile_metadata: zonefile_metadata/zonefile_2000f.json
 - tzdata: tzdata/tzdata2000e.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2000e
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2000e.json
+  zonefile_metadata: zonefile_metadata/zonefile_2000e.json
 - tzdata: tzdata/tzdata2000d.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2000d
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2000d.json
+  zonefile_metadata: zonefile_metadata/zonefile_2000d.json
 - tzdata: tzdata/tzdata2000c.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2000c
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2000c.json
+  zonefile_metadata: zonefile_metadata/zonefile_2000c.json
 - tzdata: tzdata/tzdata2000b.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2000b
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2000b.json
+  zonefile_metadata: zonefile_metadata/zonefile_2000b.json
 - tzdata: tzdata/tzdata2000a.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 2000a
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_2000a.json
+  zonefile_metadata: zonefile_metadata/zonefile_2000a.json
 - tzdata: tzdata/tzdata1999j.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 1999j
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_1999j.json
+  zonefile_metadata: zonefile_metadata/zonefile_1999j.json
 - tzdata: tzdata/tzdata1999i.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 1999i
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_1999i.json
+  zonefile_metadata: zonefile_metadata/zonefile_1999i.json
 - tzdata: tzdata/tzdata1999h.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 1999h
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_1999h.json
+  zonefile_metadata: zonefile_metadata/zonefile_1999h.json
 - tzdata: tzdata/tzdata1999g.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 1999g
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_1999g.json
+  zonefile_metadata: zonefile_metadata/zonefile_1999g.json
 - tzdata: tzdata/tzdata1999f.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 1999f
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_1999f.json
+  zonefile_metadata: zonefile_metadata/zonefile_1999f.json
 - tzdata: tzdata/tzdata1999e.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 1999e
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_1999e.json
+  zonefile_metadata: zonefile_metadata/zonefile_1999e.json
 - tzdata: tzdata/tzdata1999d.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 1999d
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_1999d.json
+  zonefile_metadata: zonefile_metadata/zonefile_1999d.json
 - tzdata: tzdata/tzdata1999c.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 1999c
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_1999c.json
+  zonefile_metadata: zonefile_metadata/zonefile_1999c.json
 - tzdata: tzdata/tzdata1999b.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 1999b
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_1999b.json
+  zonefile_metadata: zonefile_metadata/zonefile_1999b.json
 - tzdata: tzdata/tzdata1999a.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 1999a
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_1999a.json
+  zonefile_metadata: zonefile_metadata/zonefile_1999a.json
 - tzdata: tzdata/tzdata1998i.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 1998i
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_1998i.json
+  zonefile_metadata: zonefile_metadata/zonefile_1998i.json
 - tzdata: tzdata/tzdata1998h.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 1998h
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_1998h.json
+  zonefile_metadata: zonefile_metadata/zonefile_1998h.json
 - tzdata: tzdata/tzdata1998e.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 1998e
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_1998e.json
+  zonefile_metadata: zonefile_metadata/zonefile_1998e.json
 - tzdata: tzdata/tzdata1998d.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 1998d
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_1998d.json
+  zonefile_metadata: zonefile_metadata/zonefile_1998d.json
 - tzdata: tzdata/tzdata1998c.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 1998c
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_1998c.json
+  zonefile_metadata: zonefile_metadata/zonefile_1998c.json
 - tzdata: tzdata/tzdata1998b.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 1998b
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_1998b.json
+  zonefile_metadata: zonefile_metadata/zonefile_1998b.json
 - tzdata: tzdata/tzdata1998a.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 1998a
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_1998a.json
+  zonefile_metadata: zonefile_metadata/zonefile_1998a.json
 - tzdata: tzdata/tzdata1997k.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 1997k
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_1997k.json
+  zonefile_metadata: zonefile_metadata/zonefile_1997k.json
 - tzdata: tzdata/tzdata1997j.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 1997j
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_1997j.json
+  zonefile_metadata: zonefile_metadata/zonefile_1997j.json
 - tzdata: tzdata/tzdata1997i.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 1997i
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_1997i.json
+  zonefile_metadata: zonefile_metadata/zonefile_1997i.json
 - tzdata: tzdata/tzdata1997h.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 1997h
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_1997h.json
+  zonefile_metadata: zonefile_metadata/zonefile_1997h.json
 - tzdata: tzdata/tzdata1997g.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 1997g
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_1997g.json
+  zonefile_metadata: zonefile_metadata/zonefile_1997g.json
 - tzdata: tzdata/tzdata1997f.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 1997f
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_1997f.json
+  zonefile_metadata: zonefile_metadata/zonefile_1997f.json
 - tzdata: tzdata/tzdata1997e.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 1997e
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_1997e.json
+  zonefile_metadata: zonefile_metadata/zonefile_1997e.json
 - tzdata: tzdata/tzdata1997d.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 1997d
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_1997d.json
+  zonefile_metadata: zonefile_metadata/zonefile_1997d.json
 - tzdata: tzdata/tzdata1997c.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 1997c
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_1997c.json
+  zonefile_metadata: zonefile_metadata/zonefile_1997c.json
 - tzdata: tzdata/tzdata1997b.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 1997b
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_1997b.json
+  zonefile_metadata: zonefile_metadata/zonefile_1997b.json
 - tzdata: tzdata/tzdata1997a.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 1997a
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_1997a.json
+  zonefile_metadata: zonefile_metadata/zonefile_1997a.json
 - tzdata: tzdata/tzdata1996n.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 1996n
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_1996n.json
+  zonefile_metadata: zonefile_metadata/zonefile_1996n.json
 - tzdata: tzdata/tzdata1996l.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: ''
   version: 1996l
-  zoneinfo_metadata: zoneinfo_metadata/zoneinfo_1996l.json
+  zonefile_metadata: zonefile_metadata/zonefile_1996l.json
