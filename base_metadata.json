@@ -1,0 +1,22 @@
+{
+    "metadata_version": 2.0,
+    "releases_url": [
+        "https://dateutil.github.io/tzdata/tzdata/",
+        "ftp://ftp.iana.org/tz/releases/"
+    ],
+    "zonegroups": [
+        "africa",
+        "antarctica",
+        "asia",
+        "australasia",
+        "europe",
+        "northamerica",
+        "southamerica",
+        "pacificnew",
+        "etcetera",
+        "systemv",
+        "factory",
+        "backzone",
+        "backward"
+    ]
+}

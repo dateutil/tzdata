@@ -1,0 +1,33 @@
+# FTP Configuration
+rate_limit: 20
+
+ftp_server: "ftp.iana.org"
+dir_loc: "tz/releases"
+
+tzdata_loc: "tzdata/"
+iana_sig_loc: "sig/tzdata/iana/"
+du_sig_loc: "sig/tzdata/dateutil/"
+
+fetch_errors_out: "errors.yml"
+
+# Zoneinfo Configuration
+zoneinfo_metadata_loc: "zoneinfo_metadata/"
+zoneinfo_format_str: "zoneinfo_{version}.json"
+
+# Index file location
+index_loc: "index.yml"
+
+# Index keys
+version_key: 'version'
+data_key: 'tzdata'
+iana_sig_key: 'tzdata_iana_sig'
+du_sig_key: 'tzdata_dateutil_sig'
+zoneinfo_key: 'zoneinfo_metadata'
+
+# Base metadata file
+base_metadata_file: "base_metadata.json"
+
+# Data and signature file identification
+data_regex: 'tzdata(?P<version>\d{4}.)\.tar\.gz$'
+sig_regex: 'tzdata(?P<version>\d{4}.)\.tar\.gz.asc$'
+zi_regex: 'zoneinfo_(?P<version>\d{4}.).json'
