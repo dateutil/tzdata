@@ -1,0 +1,25 @@
+{
+    "metadata_version": 2.0,
+    "releases_url": [
+        "https://dateutil.github.io/tzdata/tzdata/",
+        "ftp://ftp.iana.org/tz/releases/"
+    ],
+    "tzdata_file": "tzdata2015f.tar.gz",
+    "tzdata_file_sha512": "d86e6c9e4c6d9cd5de30762723d7a90ac697feeb6dd1f04649f6a35e4e1dc638261c32066db4aeafa767ac339ccd100c38dde044ceadd61e95cb3d39c27f977e",
+    "tzversion": "2015f",
+    "zonegroups": [
+        "africa",
+        "antarctica",
+        "asia",
+        "australasia",
+        "europe",
+        "northamerica",
+        "southamerica",
+        "pacificnew",
+        "etcetera",
+        "systemv",
+        "factory",
+        "backzone",
+        "backward"
+    ]
+}

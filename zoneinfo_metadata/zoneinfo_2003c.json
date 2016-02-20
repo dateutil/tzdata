@@ -1,0 +1,25 @@
+{
+    "metadata_version": 2.0,
+    "releases_url": [
+        "https://dateutil.github.io/tzdata/tzdata/",
+        "ftp://ftp.iana.org/tz/releases/"
+    ],
+    "tzdata_file": "tzdata2003c.tar.gz",
+    "tzdata_file_sha512": "9582ab7bae93ec7ab01488903fc93f71f02f230c6533c0cabec6d5ac303746ed3716be774ceaf2dd083a51bbc15899ade61f4d0fe800f36707da8345a6026b66",
+    "tzversion": "2003c",
+    "zonegroups": [
+        "africa",
+        "antarctica",
+        "asia",
+        "australasia",
+        "europe",
+        "northamerica",
+        "southamerica",
+        "pacificnew",
+        "etcetera",
+        "systemv",
+        "factory",
+        "backzone",
+        "backward"
+    ]
+}

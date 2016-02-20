@@ -1,0 +1,25 @@
+{
+    "metadata_version": 2.0,
+    "releases_url": [
+        "https://dateutil.github.io/tzdata/tzdata/",
+        "ftp://ftp.iana.org/tz/releases/"
+    ],
+    "tzdata_file": "tzdata2009j.tar.gz",
+    "tzdata_file_sha512": "7b9949a8aa22add7c403cf26518e458161a1d2654460db3519bb986c0f03433b8f49768f0a066981b67bdeb7af93a85a407fe866bb4c5893bdba4fae8c7e6785",
+    "tzversion": "2009j",
+    "zonegroups": [
+        "africa",
+        "antarctica",
+        "asia",
+        "australasia",
+        "europe",
+        "northamerica",
+        "southamerica",
+        "pacificnew",
+        "etcetera",
+        "systemv",
+        "factory",
+        "backzone",
+        "backward"
+    ]
+}
