@@ -4,6 +4,7 @@ sig/
 zoneinfo_metadata/
 
 index.yml
+latest.yml
 *.log
 
 # Detritus

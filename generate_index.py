@@ -14,11 +14,12 @@ if __name__ == "__main__":
 
     # Load the configuration we need
     (
-     data_loc, iana_sig_loc, du_sig_loc, zi_meta_loc, index_loc,
+     data_loc, iana_sig_loc, du_sig_loc, zi_meta_loc,
+     index_loc, latest_loc,
      version_key, data_key, zi_key, iana_sig_key, du_sig_key
     ) = load_config((
         'tzdata_loc', 'iana_sig_loc', 'du_sig_loc',  'zoneinfo_metadata_loc',
-        'index_loc', 'version_key',
+        'index_loc', 'latest_loc', 'version_key',
         'data_key', 'zoneinfo_key', 'iana_sig_key', 'du_sig_key'
     ))
 
@@ -76,6 +77,12 @@ if __name__ == "__main__":
         out_list.append(dict(dict_items))
 
     out_list = sorted(out_list, key=lambda x: x[version_key], reverse=True)
+
+    # Get the latest subdict
+    latest = out_list[0]
+
+    with open(latest_loc, 'w') as yf:
+        yaml.dump(latest, yf, default_flow_style=False)
 
     with open(index_loc, 'w') as yf:
         yaml.dump(out_list, yf, default_flow_style=False)

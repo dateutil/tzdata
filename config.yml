@@ -16,6 +16,7 @@ zoneinfo_format_str: "zoneinfo_{version}.json"
 
 # Index file location
 index_loc: "index.yml"
+latest_loc: "latest.yml"
 
 # Index keys
 version_key: 'version'
