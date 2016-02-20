@@ -1,34 +1,22 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="stylesheets/github-dark.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
+---
+title: dateutil-tz
+layout: main
+---
+<div style="margin-top: 5px; margin-bottom: 0px">
+<table style="width: 90%; border: 1px dashed black; margin: 0 auto">
+  <tr style="background: #C9C9C9">
+  <td colspan=3><b>Latest</b></td>
+  </tr>
+  <tr>
+    <td><a href="{{ site.data.latest.tzdata }}">Version {{ site.data.latest.version }} (.tar.gz)</a></td>
+    <td>Signatures: <a href="{{ site.data.latest.tzdata_iana_sig }}">IANA</a>,
+              <a href="{{ site.data.latest.tzdata_dateutil_sig }}">dateutil</a></td>
+    <td><a href="{{ site.data.latest.zoneinfo_metadata }}">zoneinfo_metadata</a></td>
+  </tr>
+</table>
+</div>
 
-    <title>dateutil-tzdata by dateutil</title>
-  </head>
+<p>This site is a mirror of the IANA (Olson) timezone database files, with python-dateutil accessible data and metadata.</p>
 
-  <body>
-
-    <header>
-      <div class="container">
-        <h1>dateutil-tzdata</h1>
-        <h2>Time zone data for dateutil</h2>
-
-      </div>
-    </header>
-
-    <div class="container">
-      <section id="main_content">
-        <p>Mirror of the Olson timezone database with python-dateutil-accessible data and metadata and pre-built dateutil zoneinfo files.</p>
-        <p>The main site for these data files can be found <a href="https://www.iana.org/time-zones">at the IANA's website</a>. The archive of releases is <a href="ftp://ftp.iana.org/tz/releases/">here (FTP)</a>. More information can be found at <a href="https://www.iana.org/time-zones/repository/tz-link.html">the code repository</a>. I have verified that all files from version 2012j onwards have been signed using <a href="http://pgp.mit.edu/pks/lookup?op=vindex&search=0xED97E90E62AA7E34">key ID 0x62AA7E34</a>. The built zoneinfo files are signed with my <a href="http://pgp.mit.edu/pks/lookup?op=vindex&search=0xCD54FCE3D964BEFB">own key, 0xD964BEFB</a>.</p>
-        <p>To use these files with dateutil, run <tt>updatezinfo.py</tt> with the appropriate arguments to build the zoneinfo database - this requires <a href="http://man7.org/linux/man-pages/man8/zic.8.html">zic</a>. For convenience, a zoneinfo metadata file is provided alongside each release, which can be used as an input to <tt>updatezinfo.py</tt>. Additionally, prebuilt zoneinfo files are provided for each release, and can be placed directly in your dateutil/zoneinfo file (it must be named <tt>dateutil-zoneinfo.tar.gz</tt>).</p>
-      </section>
-      <!-- Table will go here -->
-    </div>
-
-    
-  </body>
-</html>
+<p>The main site for these data files can be found <a href="https://www.iana.org/time-zones">at the IANA's website</a>. The archive of releases is <a href="ftp://ftp.iana.org/tz/releases/">here (FTP)</a>. More information can be found at <a href="https://www.iana.org/time-zones/repository/tz-link.html">the code repository</a>. I have verified that all files from version 2012j onwards have been signed using <a href="http://pgp.mit.edu/pks/lookup?op=vindex&search=0xED97E90E62AA7E34">key ID 0x62AA7E34</a>. The built zoneinfo files are signed with my <a href="http://pgp.mit.edu/pks/lookup?op=vindex&search=0xCD54FCE3D964BEFB">own key, 0xD964BEFB</a>.</p>
+<p>To use these files with dateutil, run <tt>updatezinfo.py</tt> with the appropriate arguments to build the zoneinfo database - this requires <a href="http://man7.org/linux/man-pages/man8/zic.8.html">zic</a>. For convenience, a zoneinfo metadata file is provided alongside each release, which can be used as an input to <tt>updatezinfo.py</tt>. Additionally, prebuilt zoneinfo files are provided for each release, and can be placed directly in your dateutil/zoneinfo file (it must be named <tt>dateutil-zoneinfo.tar.gz</tt>).</p>

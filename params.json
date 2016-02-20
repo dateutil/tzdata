@@ -2,6 +2,5 @@
     "name": "dateutil-tzdata",
     "tagline": "Time zone data for dateutil",
     "body":"Mirror of the Olson timezone database with dateutil-accessible data and metadata and pre-built dateutil zoneinfo files.",
-    "google":"",
     "note":"Don't delete this file! It's used internally to help with page regeneration."
 }

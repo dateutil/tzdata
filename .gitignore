@@ -1,6 +1,8 @@
 __pycache__*
 validation_errors.log
 
+_site/
+
 base_metadata.json
 config.yml
 
