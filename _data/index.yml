@@ -1,3 +1,8 @@
+- tzdata: tzdata/tzdata2016i.tar.gz
+  tzdata_dateutil_sig: sig/tzdata/dateutil/tzdata2016i.tar.gz.asc
+  tzdata_iana_sig: sig/tzdata/iana/tzdata2016i.tar.gz.asc
+  version: 2016i
+  zonefile_metadata: zonefile_metadata/zonefile_2016i.json
 - tzdata: tzdata/tzdata2016h.tar.gz
   tzdata_dateutil_sig: sig/tzdata/dateutil/tzdata2016h.tar.gz.asc
   tzdata_iana_sig: sig/tzdata/iana/tzdata2016h.tar.gz.asc
