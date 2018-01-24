@@ -1,3 +1,18 @@
+- tzdata: tzdata/tzdata2018c.tar.gz
+  tzdata_dateutil_sig: sig/tzdata/dateutil/tzdata2018c.tar.gz.asc
+  tzdata_iana_sig: sig/tzdata/iana/tzdata2018c.tar.gz.asc
+  version: 2018c
+  zonefile_metadata: zonefile_metadata/zonefile_2018c.json
+- tzdata: tzdata/tzdata2018b.tar.gz
+  tzdata_dateutil_sig: sig/tzdata/dateutil/tzdata2018b.tar.gz.asc
+  tzdata_iana_sig: sig/tzdata/iana/tzdata2018b.tar.gz.asc
+  version: 2018b
+  zonefile_metadata: zonefile_metadata/zonefile_2018b.json
+- tzdata: tzdata/tzdata2018a.tar.gz
+  tzdata_dateutil_sig: sig/tzdata/dateutil/tzdata2018a.tar.gz.asc
+  tzdata_iana_sig: sig/tzdata/iana/tzdata2018a.tar.gz.asc
+  version: 2018a
+  zonefile_metadata: zonefile_metadata/zonefile_2018a.json
 - tzdata: tzdata/tzdata2017c.tar.gz
   tzdata_dateutil_sig: sig/tzdata/dateutil/tzdata2017c.tar.gz.asc
   tzdata_iana_sig: sig/tzdata/iana/tzdata2017c.tar.gz.asc
