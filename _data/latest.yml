@@ -1,5 +1,5 @@
-tzdata: tzdata/tzdata2018c.tar.gz
-tzdata_dateutil_sig: sig/tzdata/dateutil/tzdata2018c.tar.gz.asc
-tzdata_iana_sig: sig/tzdata/iana/tzdata2018c.tar.gz.asc
-version: 2018c
+tzdata: tzdata/tzdata2018d.tar.gz
+tzdata_dateutil_sig: sig/tzdata/dateutil/tzdata2018d.tar.gz.asc
+tzdata_iana_sig: sig/tzdata/iana/tzdata2018d.tar.gz.asc
+version: 2018d
 zonefile_metadata: zonefile_metadata/zonefile_metadata.json
