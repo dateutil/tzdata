@@ -1,3 +1,13 @@
+- tzdata: tzdata/tzdata2018i.tar.gz
+  tzdata_dateutil_sig: ''
+  tzdata_iana_sig: sig/tzdata/iana/tzdata2018i.tar.gz.asc
+  version: 2018i
+  zonefile_metadata: zonefile_metadata/zonefile_2018i.json
+- tzdata: tzdata/tzdata2018h.tar.gz
+  tzdata_dateutil_sig: ''
+  tzdata_iana_sig: sig/tzdata/iana/tzdata2018h.tar.gz.asc
+  version: 2018h
+  zonefile_metadata: zonefile_metadata/zonefile_2018h.json
 - tzdata: tzdata/tzdata2018g.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: sig/tzdata/iana/tzdata2018g.tar.gz.asc
