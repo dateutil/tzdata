@@ -1,3 +1,8 @@
+- tzdata: tzdata/tzdata2019b.tar.gz
+  tzdata_dateutil_sig: ''
+  tzdata_iana_sig: sig/tzdata/iana/tzdata2019b.tar.gz.asc
+  version: 2019b
+  zonefile_metadata: zonefile_metadata/zonefile_2019b.json
 - tzdata: tzdata/tzdata2019a.tar.gz
   tzdata_dateutil_sig: ''
   tzdata_iana_sig: sig/tzdata/iana/tzdata2019a.tar.gz.asc
