@@ -2,6 +2,7 @@ __pycache__*
 validation_errors.log
 
 _site/
+.venv/
 
 base_metadata.json
 config.yml
@@ -12,3 +13,4 @@ generate_index.py
 generate_metadata.py
 generate_signatures.py
 tzdata_files.py
+requirements.txt
