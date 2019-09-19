@@ -1,5 +1,3 @@
-from six import iteritems
-
 from os import path
 
 from config import load_config
@@ -38,7 +36,7 @@ if __name__ == "__main__":
 
     invalid_sigs = []
 
-    for version, subdict in iteritems(data_files):
+    for version, subdict in data_files.items():
         try:
             dfname = subdict[data_key]
         except KeyError:

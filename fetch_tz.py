@@ -1,7 +1,5 @@
 import ftplib
 
-from six import iteritems
-
 from os import path
 from os import remove
 
@@ -79,7 +77,7 @@ if __name__ == '__main__':
     signatures_to_download = []
 
     # Figure out what's missing
-    for version, subdict in iteritems(data_files):
+    for version, subdict in data_files.items():
         dfname = subdict.get(dkey, None)
         if dfname is None:
             continue
@@ -115,7 +113,7 @@ if __name__ == '__main__':
 
     sys.stdout.write("\r\n")
 
-    for version, subdict in iteritems(data_files):
+    for version, subdict in data_files.items():
         dfname = subdict.get(dkey, None)
         if dfname is None:
             continue

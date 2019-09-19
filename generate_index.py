@@ -1,18 +1,16 @@
+import yaml
 
-if __name__ == "__main__":
-    import yaml
-    from six import iteritems
+import shutil
+from os import path
+from collections import OrderedDict
 
-    import shutil
-    from os import path
-    from collections import OrderedDict
+from config import load_config
 
-    from config import load_config
+from tzdata_files import get_zoneinfo_files, get_sig_files, get_tzdata_files
+from tzdata_files import load_directory
+from tzdata_files import version_key, data_key, zi_key
 
-    from tzdata_files import get_zoneinfo_files, get_sig_files, get_tzdata_files
-    from tzdata_files import load_directory
-    from tzdata_files import version_key, data_key, zi_key
-
+def main():
     # Load the configuration we need
     (
      data_loc, iana_sig_loc, du_sig_loc, zi_meta_loc,
@@ -29,7 +27,7 @@ if __name__ == "__main__":
      dus_flist,
      zi_flist) = map(load_directory,
                      (data_loc, iana_sig_loc, du_sig_loc, zi_meta_loc))
-    
+
     data_files = get_tzdata_files(data_flist)
     data_files = get_sig_files(ianas_flist, c_key=iana_sig_key, c_dict=data_files)
     data_files = get_sig_files(dus_flist, c_key=du_sig_key, c_dict=data_files)
@@ -43,7 +41,7 @@ if __name__ == "__main__":
             du_sig_key,
             zi_key)
 
-    for version, subdict in iteritems(data_files):
+    for version, subdict in data_files.items():
         try:
             tzdata = subdict[data_key]
             tzdata_fpath = path.join(data_loc, tzdata)
@@ -68,20 +66,20 @@ if __name__ == "__main__":
         except KeyError:
             zi_meta_fpath = ''
 
-        dict_items = list(zip(keys,
+        dict_items = dict(zip(keys,
                               (version,
                                tzdata_fpath,
                                iana_sig_fpath,
                                du_sig_fpath,
                                zi_meta_fpath)))
 
-        out_list.append(dict(dict_items))
+        out_list.append(dict_items)
 
     out_list = sorted(out_list, key=lambda x: x[version_key], reverse=True)
 
     # Get the latest subdict
     latest = out_list[0].copy()
-    
+
     # Copy the latest metadata to the new latest location
     latest_fname = latest[zi_key]
     new_latest_fname = path.join(zi_meta_loc, zi_latest_fname)
@@ -94,3 +92,6 @@ if __name__ == "__main__":
 
     with open(index_loc, 'w') as yf:
         yaml.dump(out_list, yf, default_flow_style=False)
+
+if __name__ == "__main__":
+    main()
