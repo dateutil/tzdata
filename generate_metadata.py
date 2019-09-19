@@ -1,5 +1,3 @@
-from six import iteritems
-
 import hashlib
 import json
 
@@ -56,7 +54,6 @@ def save_json(fpath, obj):
 
 if __name__ == "__main__":
     from os import listdir, path
-    from six import iteritems
 
     from tzdata_files import get_tzdata_files, data_key, load_directory
 
@@ -70,7 +67,7 @@ if __name__ == "__main__":
     flist = load_directory(data_loc)
 
     data_files = get_tzdata_files(flist)
-    for version, subdict in iteritems(data_files):
+    for version, subdict in data_files.items():
         fname = subdict[data_key]
         fpath = path.join(data_loc, fname)
 
