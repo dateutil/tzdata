@@ -1,35 +1,40 @@
+- tzdata: tzdata/tzdata2020a.tar.gz
+  tzdata_dateutil_sig: sig/tzdata/dateutil/tzdata2020a.tar.gz.asc
+  tzdata_iana_sig: sig/tzdata/iana/tzdata2020a.tar.gz.asc
+  version: 2020a
+  zonefile_metadata: zonefile_metadata/zonefile_2020a.json
 - tzdata: tzdata/tzdata2019c.tar.gz
-  tzdata_dateutil_sig: ''
+  tzdata_dateutil_sig: sig/tzdata/dateutil/tzdata2019c.tar.gz.asc
   tzdata_iana_sig: sig/tzdata/iana/tzdata2019c.tar.gz.asc
   version: 2019c
   zonefile_metadata: zonefile_metadata/zonefile_2019c.json
 - tzdata: tzdata/tzdata2019b.tar.gz
-  tzdata_dateutil_sig: ''
+  tzdata_dateutil_sig: sig/tzdata/dateutil/tzdata2019b.tar.gz.asc
   tzdata_iana_sig: sig/tzdata/iana/tzdata2019b.tar.gz.asc
   version: 2019b
   zonefile_metadata: zonefile_metadata/zonefile_2019b.json
 - tzdata: tzdata/tzdata2019a.tar.gz
-  tzdata_dateutil_sig: ''
+  tzdata_dateutil_sig: sig/tzdata/dateutil/tzdata2019a.tar.gz.asc
   tzdata_iana_sig: sig/tzdata/iana/tzdata2019a.tar.gz.asc
   version: 2019a
   zonefile_metadata: zonefile_metadata/zonefile_2019a.json
 - tzdata: tzdata/tzdata2018i.tar.gz
-  tzdata_dateutil_sig: ''
+  tzdata_dateutil_sig: sig/tzdata/dateutil/tzdata2018i.tar.gz.asc
   tzdata_iana_sig: sig/tzdata/iana/tzdata2018i.tar.gz.asc
   version: 2018i
   zonefile_metadata: zonefile_metadata/zonefile_2018i.json
 - tzdata: tzdata/tzdata2018h.tar.gz
-  tzdata_dateutil_sig: ''
+  tzdata_dateutil_sig: sig/tzdata/dateutil/tzdata2018h.tar.gz.asc
   tzdata_iana_sig: sig/tzdata/iana/tzdata2018h.tar.gz.asc
   version: 2018h
   zonefile_metadata: zonefile_metadata/zonefile_2018h.json
 - tzdata: tzdata/tzdata2018g.tar.gz
-  tzdata_dateutil_sig: ''
+  tzdata_dateutil_sig: sig/tzdata/dateutil/tzdata2018g.tar.gz.asc
   tzdata_iana_sig: sig/tzdata/iana/tzdata2018g.tar.gz.asc
   version: 2018g
   zonefile_metadata: zonefile_metadata/zonefile_2018g.json
 - tzdata: tzdata/tzdata2018f.tar.gz
-  tzdata_dateutil_sig: ''
+  tzdata_dateutil_sig: sig/tzdata/dateutil/tzdata2018f.tar.gz.asc
   tzdata_iana_sig: sig/tzdata/iana/tzdata2018f.tar.gz.asc
   version: 2018f
   zonefile_metadata: zonefile_metadata/zonefile_2018f.json
