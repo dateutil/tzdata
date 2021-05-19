@@ -1,5 +1,5 @@
-tzdata: tzdata/tzdata2020a.tar.gz
-tzdata_dateutil_sig: sig/tzdata/dateutil/tzdata2020a.tar.gz.asc
-tzdata_iana_sig: sig/tzdata/iana/tzdata2020a.tar.gz.asc
-version: 2020a
+tzdata: tzdata/tzdata2021a.tar.gz
+tzdata_dateutil_sig: sig/tzdata/dateutil/tzdata2021a.tar.gz.asc
+tzdata_iana_sig: sig/tzdata/iana/tzdata2021a.tar.gz.asc
+version: 2021a
 zonefile_metadata: zonefile_metadata/zonefile_metadata.json

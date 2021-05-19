@@ -1,3 +1,33 @@
+- tzdata: tzdata/tzdata2021a.tar.gz
+  tzdata_dateutil_sig: sig/tzdata/dateutil/tzdata2021a.tar.gz.asc
+  tzdata_iana_sig: sig/tzdata/iana/tzdata2021a.tar.gz.asc
+  version: 2021a
+  zonefile_metadata: zonefile_metadata/zonefile_2021a.json
+- tzdata: tzdata/tzdata2020f.tar.gz
+  tzdata_dateutil_sig: sig/tzdata/dateutil/tzdata2020f.tar.gz.asc
+  tzdata_iana_sig: sig/tzdata/iana/tzdata2020f.tar.gz.asc
+  version: 2020f
+  zonefile_metadata: zonefile_metadata/zonefile_2020f.json
+- tzdata: tzdata/tzdata2020e.tar.gz
+  tzdata_dateutil_sig: sig/tzdata/dateutil/tzdata2020e.tar.gz.asc
+  tzdata_iana_sig: sig/tzdata/iana/tzdata2020e.tar.gz.asc
+  version: 2020e
+  zonefile_metadata: zonefile_metadata/zonefile_2020e.json
+- tzdata: tzdata/tzdata2020d.tar.gz
+  tzdata_dateutil_sig: sig/tzdata/dateutil/tzdata2020d.tar.gz.asc
+  tzdata_iana_sig: sig/tzdata/iana/tzdata2020d.tar.gz.asc
+  version: 2020d
+  zonefile_metadata: zonefile_metadata/zonefile_2020d.json
+- tzdata: tzdata/tzdata2020c.tar.gz
+  tzdata_dateutil_sig: sig/tzdata/dateutil/tzdata2020c.tar.gz.asc
+  tzdata_iana_sig: sig/tzdata/iana/tzdata2020c.tar.gz.asc
+  version: 2020c
+  zonefile_metadata: zonefile_metadata/zonefile_2020c.json
+- tzdata: tzdata/tzdata2020b.tar.gz
+  tzdata_dateutil_sig: sig/tzdata/dateutil/tzdata2020b.tar.gz.asc
+  tzdata_iana_sig: sig/tzdata/iana/tzdata2020b.tar.gz.asc
+  version: 2020b
+  zonefile_metadata: zonefile_metadata/zonefile_2020b.json
 - tzdata: tzdata/tzdata2020a.tar.gz
   tzdata_dateutil_sig: sig/tzdata/dateutil/tzdata2020a.tar.gz.asc
   tzdata_iana_sig: sig/tzdata/iana/tzdata2020a.tar.gz.asc
